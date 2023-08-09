@@ -1,2 +1,2 @@
 # PortscannerM
-A multithreading portscanner written in go
+A multithreading portscanner written in Go
